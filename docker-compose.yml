@@ -1,0 +1,4 @@
+docker-webapp:
+  image: dtr.gntry.io/gntry/docker-webapp
+  ports:
+    - "5000"
